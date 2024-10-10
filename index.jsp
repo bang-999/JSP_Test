@@ -36,7 +36,9 @@
 	<br>
 	<a href="include02">예제 3-10</a>
 	<hr></hr>
-	<a href="">예제 4-1</a>
+	<a href="forward_date">예제 4-1</a>
+	<p><a href ="param01">예제 4-3</a></p>
+	<p><a href="param02">예제 4-4</a></p>
 	
 </body>
 </html>
