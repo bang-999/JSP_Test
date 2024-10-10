@@ -39,6 +39,10 @@
 	<a href="forward_date">예제 4-1</a>
 	<p><a href ="param01">예제 4-3</a></p>
 	<p><a href="param02">예제 4-4</a></p>
+	<p><a href="useBean01">예제 4-5</a></p>
+	<p><a href="useBean02">예제 4-6</a></p>
+	<p><a href="useBean03">예제 4-7</a></p>
+	<p><a href="useBean04">예제 4-8</a></p>
 	
 </body>
 </html>
