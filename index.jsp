@@ -44,5 +44,15 @@
 	<p><a href="useBean03">예제 4-7</a></p>
 	<p><a href="useBean04">예제 4-8</a></p>
 	
+	<form action = "4_0" method = "get">
+		<p><input type = "text" name = "id"/></p>
+		<p><input type = "text" name = "name"/></p>
+		<p><input type = "submit" value = "전송"></input></p>
+	</form>
+	
+	
+	
+	<p><a href="4_0?id=abc&name=bcco">4_0</a></p>
+	
 </body>
 </html>
