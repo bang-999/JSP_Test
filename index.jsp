@@ -50,9 +50,18 @@
 		<p><input type = "submit" value = "전송"></input></p>
 	</form>
 	
-	
-	
 	<p><a href="4_0?id=abc&name=bcco">4_0</a></p>
+	<hr></hr>
+	<div>
+		<form action = "request01_process.jsp">
+			<p> 아이디 : <input type = "text" name = "id">
+			<p> 비밀번호 : <input type = "text" name = "passwd">
+			<p> <input type = "submit" value = "전송">
+		</form>
+	</div>
+	
+	<p><a href = "5_2">예제 5-2</a></p>
+	<p><a href = "5_3">예제 5-3</a></p>
 	
 </body>
 </html>
