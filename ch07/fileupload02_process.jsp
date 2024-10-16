@@ -16,7 +16,7 @@
         </tr>
         
         <%
-        	out.println("<tr><td>"+name1+"</td>");
+        	//out.println("<tr><td>"+name1+"</td>");
         %>
         
     </table>
