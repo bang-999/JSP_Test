@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Security</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<p>인증 성공</p>
-	<a href ="home">홈으로 이동</a>
+
 </body>
 </html>

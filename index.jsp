@@ -5,6 +5,12 @@
 <head>
 <meta charset="UTF-8">
 <title>실습 리스트</title>
+
+<style type="text/css">
+	a {
+		color: black;
+	 }
+</style>
 </head>
 <body>
 
@@ -79,14 +85,20 @@
 	
 	<hr></hr>
 	
-	<p><a href = "9_1">예제 9-1 사용자 로케일에 따라 국가, 날짜, 통화 형식 출력</a></p>
-	<p><a href = "9_2">예제 9-2 사용자의 로케일에 따라 리소스번들의 메시지 출력</a></p>
-	<p><a href = "9_3">예제 9-3 사용자의 로케일에 따라 다양한 형식에 맞춰 출력</a></p>
-	<p><a href = "9_4">예제 9-4 사용자의 로케일에 따라 날짜 형태 출력</a></p>
+	<div style="border: 1px solid black;">
+		<p><a href = "9_1">예제 9-1 사용자 로케일에 따라 국가, 날짜, 통화 형식 출력</a></p>
+		<p><a href = "9_2">예제 9-2 사용자의 로케일에 따라 리소스번들의 메시지 출력</a></p>
+		<p><a href = "9_3">예제 9-3 사용자의 로케일에 따라 다양한 형식에 맞춰 출력</a></p>
+		<p><a href = "9_4">예제 9-4 사용자의 로케일에 따라 날짜 형태 출력</a></p>
+	</div>
 	
 	<hr></hr>
 	
-	<p><a href = "10_1">예제 10-1</a></p>
+	<div style="border: 1px solid black;">
+		<p><a href = "10_1">예제 10-1</a></p>
+		<p><a href = "10_2">예제 10-2</a></p>
+	</div>
+	
 	
 </body>
 </html>
