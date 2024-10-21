@@ -99,6 +99,12 @@
 		<p><a href = "10_2">예제 10-2</a></p>
 	</div>
 	
+	<hr></hr>
+	<div style="border: 1px solid black;">
+		<p><a href = "11_2">예제 11-2 page 디렉티브 태그에 isErrorPage 속성을 이용하여 오류 페이지 만들기</a></p>
+		<p><a href = "11_3">예제 11-3 page 디렉티브 태그에 errorPage와 isErrorPage 속성을 이용하여 예외 처리</a></p>
+	</div>
+	
 	
 </body>
 </html>
