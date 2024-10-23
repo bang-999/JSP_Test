@@ -46,4 +46,14 @@
 			<error-code>404</error-code>
 			<location>/ch11/404error.jsp</location>
 		</error-page>
+		
+		<filter>
+			<filter-name>Filter01</filter-name>
+			<filter-class>chapter12.AuthenFilter</filter-class>
+		</filter>
+		
+		<filter-mapping>
+			<filter-name>Filter01</filter-name>
+			<url-pattern>/ch12/filter01_process.jsp</url-pattern>
+		</filter-mapping>
 </web-app>
